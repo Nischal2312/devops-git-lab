@@ -1,1 +1,1 @@
-Application version 3
+Application version 3 - Login feature included 
